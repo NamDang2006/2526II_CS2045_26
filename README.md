@@ -16,4 +16,5 @@ g++ -std=c++11 main.cpp -o loan_test
 
 Dưới đây là minh chứng chương trình đã vượt qua 100% các ca kiểm thử (17/17 Test Cases) bao gồm cả phân hoạch lỗi biên và bảng quyết định nghiệp vụ:
 
-![Kết quả chạy thử tự động](ket_qua_test.png)
+![Kết quả chạy thử tự động](ket_qua_test1.png)
+![Kết quả chạy thử tự động](ket_qua_test2.png)
