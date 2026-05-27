@@ -7,8 +7,13 @@ Dự án triển khai mô-đun phần mềm tự động quyết định phê du
 * **Bảng quyết định (Decision Table)** tối ưu hóa để bao phủ các kịch bản nghiệp vụ.
 
 ## Cách Chạy Chương Trình C++
-Bạn có thể biên dịch và chạy file `main.cpp` bằng bất kỳ trình biên dịch C++ nào hỗ trợ C++11 trở lên:
 
 ```bash
 g++ -std=c++11 main.cpp -o loan_test
 ./loan_test
+```
+## Chứng minh kết quả kiểm thử (Test Results)
+
+Dưới đây là minh chứng chương trình đã vượt qua 100% các ca kiểm thử (17/17 Test Cases) bao gồm cả phân hoạch lỗi biên và bảng quyết định nghiệp vụ:
+
+![Kết quả chạy thử tự động](ket_qua_test.png)
